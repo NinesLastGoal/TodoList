@@ -3,9 +3,11 @@ The Final To Do List of Nines - I keep losing the other ones
 
 
 
-The detective Agenc
+The detective Agency
 - Lookiloo
-- - Update sounds when swung to thror
+- - Update sounds when swung to thworp
   - Mix in world shaders for local effects
   - Mix in detective office
   - Add in marker to the end of the lookiloo to allow for marking where bodies were incase we forget. 
+
+
